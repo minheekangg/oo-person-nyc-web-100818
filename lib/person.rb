@@ -70,7 +70,7 @@ attr_accessor :bank_account
   end
 
   def work_out
-    self.hygiene -=3
+    self.hygiene -= 3
   end
 
 end
