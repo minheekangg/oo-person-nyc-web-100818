@@ -70,6 +70,4 @@ attr_accessor :bank_account
 
 
 
-
-
 end
