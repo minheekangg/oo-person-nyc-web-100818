@@ -49,6 +49,14 @@ attr_accessor :bank_account
     else
       false
     end
-  end 
+  end
+
+  def clean?
+    if @hygiene>7
+      true
+    else
+      false
+    end
+  end
 
 end
