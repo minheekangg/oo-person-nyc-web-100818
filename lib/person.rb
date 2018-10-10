@@ -21,7 +21,7 @@ attr_accessor :bank_account
       end
   end
 
-  def hygiene=(hygiene)
+  def hygiene=(hygiene) 
     if hygiene > 10
         return @hygiene = 10
       elsif hygiene < 0
