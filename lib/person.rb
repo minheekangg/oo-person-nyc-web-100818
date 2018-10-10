@@ -66,6 +66,7 @@ attr_accessor :bank_account
 
   def take_bath
     @hygiene += 4
+    
   end
 
 
