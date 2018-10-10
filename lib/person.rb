@@ -91,7 +91,9 @@ attr_accessor :bank_account
       person.happiness += 1
       self.happiness += 1
       return "blah blah sun blah rain"
-    else 
+    else
+
+      return "blah blah blah blah blah"
     end
   end
 
