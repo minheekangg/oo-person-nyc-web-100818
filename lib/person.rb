@@ -8,6 +8,7 @@ attr_accessor :bank_account
     @name = name
     @bank_account = 25
     @happiness = 8
+    @hygiene = 8
   end
 
   def happiness=(happiness)
