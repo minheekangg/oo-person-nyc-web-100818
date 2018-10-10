@@ -84,7 +84,8 @@ attr_accessor :bank_account
 
   def start_conversation(person, topic)
     if topic == "politics"
-      return  
+      return "blah blah partisan blah lobbyist"
+    elsif topic == 
     end
   end
 
