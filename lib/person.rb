@@ -32,7 +32,7 @@ attr_accessor :bank_account
   end
 
   def hygiene
-    @hygiende
+    @hygiene
   end
 
   def bank_account
