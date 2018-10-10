@@ -77,7 +77,8 @@ attr_accessor :bank_account
 
 
   def call_friend(person)
-
+    self.happiness += 3
+    person.happiness += 3
   end
 
 end
