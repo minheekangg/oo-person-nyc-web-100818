@@ -13,5 +13,6 @@ attr_accessor :bank_account
     @bank_account
   end
 
-
+  def happiness
+  end
 end
