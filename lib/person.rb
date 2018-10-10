@@ -48,6 +48,7 @@ attr_accessor :bank_account
       true
     else
       false
-    end 
+    end
+  end 
 
 end
