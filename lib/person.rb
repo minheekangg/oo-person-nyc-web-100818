@@ -2,7 +2,7 @@
 
 class Person
 attr_reader :name
-attr_accessor :bank_account
+attr_accessor :bank_account, :happiness
 
   def initialize(name)
     @name = name
@@ -15,4 +15,5 @@ attr_accessor :bank_account
 
   def happiness
   end
+
 end
