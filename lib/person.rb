@@ -64,4 +64,12 @@ attr_accessor :bank_account
     return "all about the benjamins"
   end
 
+  def take_bath
+
+  end
+
+
+
+
+
 end
