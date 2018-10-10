@@ -75,4 +75,9 @@ attr_accessor :bank_account
     return "♪ another one bites the dust ♫"
   end
 
+
+  def call_friend(person)
+
+  end
+
 end
